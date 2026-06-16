@@ -1,2 +1,2 @@
-export const MOCK_USERNAME = 'demo';
-export const MOCK_PASSWORD = 'demo123';
+export const MOCK_USERNAME = 'jv';
+export const MOCK_PASSWORD = 'jv123';
